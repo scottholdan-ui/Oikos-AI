@@ -1,0 +1,9 @@
+{
+  "name": "oikos-ai",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "echo Oikos AI workspace initialized"
+  }
+}
